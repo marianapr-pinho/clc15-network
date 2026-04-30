@@ -6,6 +6,7 @@ resource "aws_vpc" "terraform_vpc" {
     Name = "clc15-tf-vpc"
     CC = "123456"
     Owner = "DevOps"
+    Name = "Mariana Pérola"
   }
 }
 
